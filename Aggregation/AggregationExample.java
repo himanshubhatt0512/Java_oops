@@ -47,4 +47,4 @@ public class AggregationExample {
         System.out.println(p2.getPersonName() + " lives in "+ a2.city + ", " + a2.state);
         System.out.println(p1.getPersonName() + " lives in "+ a1.city + ", " + a1.state);
     }
-}
+}   
