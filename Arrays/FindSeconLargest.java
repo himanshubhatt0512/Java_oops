@@ -1,4 +1,4 @@
-public class FindSeconLargest {
+class FindSeconLargest {
 
     private static int secondLargest(int[] arr){
         int n = arr.length;
